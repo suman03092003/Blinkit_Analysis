@@ -1,2 +1,1 @@
-# Blinkit_Analysis
-Power Query is a data preparation tool in Excel and Power BI used to import, clean, transform, and combine data from multiple sources. It automates tasks like removing duplicates, handling missing values, changing data types, and merging tables, making data analysis faster, more accurate, and refreshable.
+Blinkit Sales Analysis Dashboard built using Microsoft Excel and Power BI. The project analyzes sales, item performance, outlet types, locations, and customer ratings through interactive dashboards, KPIs, charts, slicers, and Power Query for data cleaning and transformation.
